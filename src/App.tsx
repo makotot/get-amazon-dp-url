@@ -131,7 +131,7 @@ export const App = () => {
             alignItems="center"
             justifyContent="center">
             <x.a
-              href="github.com/makotot/get-amazon-dp-url"
+              href="https://github.com/makotot/get-amazon-dp-url"
               target="_blank"
               ringInset
               ring={{ focus: 1 }}>
